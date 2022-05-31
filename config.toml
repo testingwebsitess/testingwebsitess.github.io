@@ -1,7 +1,9 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://testingwebsitess.github.io/'
 languageCode = 'en-us'
 title = 'David An'
 theme = "researcher"
+publishDir = "docs"
+
 [menu]
   [[menu.main]]
     name = "Blog"
